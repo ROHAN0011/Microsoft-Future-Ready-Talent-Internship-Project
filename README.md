@@ -26,3 +26,5 @@ Azure Bot Service, QnA Maker, Static Web Apps,
 Other Azure Technologies:
 App Service
 
+Project Demo URL:
+https://ashy-forest-0978d2910.azurestaticapps.net/index.html
