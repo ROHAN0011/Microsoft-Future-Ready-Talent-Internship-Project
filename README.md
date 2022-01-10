@@ -25,8 +25,8 @@ Core Idea of Project is to build an sample prototype E-Commerce Website with FAQ
 
 
 ### Primary Azure Technology :
-Azure Bot Service, QnA Maker, Static Web Apps,
+Azure Bot Service, QnA Maker, Static Web Apps
 
 
-Other Azure Technologies:
+Other Azure Technologies :
 App Service
