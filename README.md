@@ -1,4 +1,4 @@
-# ecommerce1
+# E-Commerce Website with FAQ Bot
 
 This is 10 Page E-commerce Front End website design
 
