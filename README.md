@@ -30,3 +30,5 @@ Azure Bot Service, QnA Maker, Static Web Apps
 
 Other Azure Technologies :
 App Service
+
+<p align= "center"><img src="https://github.com/ROHAN0011/Codown-of-C/blob/1eeae201a22846ceaec2c6ff0bee190aa1960d94/C.jpeg" width="700" height= "350"></p>
